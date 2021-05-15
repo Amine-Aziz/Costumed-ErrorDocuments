@@ -34,6 +34,4 @@
 			<a href="https://Hard-Gamers.Com/">Homepage</a>
 		</div>
 	</div>
-</body><!-- 	Copyright © <a href="https://hard-gamers.com/" target="_blank">HardGamers Community</a> 2021 - All rights reserved -->
-
 </html>
